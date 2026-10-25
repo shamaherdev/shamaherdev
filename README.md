@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sham Aher</h1>
-<h3 align="center">Aspiring Software Developer | Passionate About Problem About Problem-Solving & Building Real-World Solutions</h3>
+<h3 align="center">Aspiring Software Developer|Passionate About Problem About Problem-Solving & Building Real-World Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamaherdev&label=Profile%20views&color=0e75b6&style=flat" alt="shamaherdev" /> </p>
 
